@@ -17,7 +17,7 @@ WiFiServer server(80);
 //---------------------Credenciales de WiFi-----------------------
 
 const char* ssid     = "veterinarialascamelias";
-const char* password = "cocorumba";
+const char* password = "72345";
 
 //---------------------VARIABLES GLOBALES-------------------------
 int contconexion = 0;
